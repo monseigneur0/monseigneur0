@@ -23,6 +23,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Node.js-#339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Node.js-#339933?style=flat-square logo JS=Node.logo Color=white"/></a>&nbsp
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 </p>
 
 <p align="center"> Frontend web engineer who uses Node.js and Django </p>
