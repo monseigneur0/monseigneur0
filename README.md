@@ -26,5 +26,5 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center">
-  <a href="https://url.kr/6cw197">노션<img src=""/></a>
+  <a href="https://url.kr/6cw197">노션</></a>
 </p>
