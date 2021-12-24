@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=TakhoKim&fontSize=70&animation=twinkling)
 
-
+<p align="center"> Skills </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
