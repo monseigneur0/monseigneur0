@@ -24,6 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
+
 <p align="center">
-  <a href="https://url.kr/6cw197"><img src=""/></a>
+  <a href="https://url.kr/6cw197">노션<img src=""/></a>
 </p>
